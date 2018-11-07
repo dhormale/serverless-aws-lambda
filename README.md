@@ -10,5 +10,5 @@ $ serverless create --template aws-nodejs --path my-service
 Change into the newly created directory
 $ cd my-service
 
-# Deploy
+## Deploy
 serverless deploy -v
